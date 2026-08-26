@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+21
+-classpath
+/app/bluej/lib/bluejcore.jar:/app/bluej/lib/junit-4.12.jar:/app/bluej/lib/junit-jupiter-5.5.2.jar:/app/bluej/lib/junit-jupiter-api-5.5.2.jar:/app/bluej/lib/junit-jupiter-engine-5.5.2.jar:/app/bluej/lib/junit-jupiter-params-5.5.2.jar:/app/bluej/lib/junit-platform-commons-1.5.2.jar:/app/bluej/lib/junit-platform-engine-1.5.2.jar:/app/bluej/lib/junit-platform-launcher-1.5.2.jar:/app/bluej/lib/junit-platform-suite-api-1.5.2.jar:/app/bluej/lib/junit-vintage-engine-5.5.2.jar:/app/bluej/lib/hamcrest-core-1.3.jar:/app/bluej/lib/opentest4j-1.2.0.jar:/app/bluej/lib/lang-stride.jar:/app/bluej/lib/javafx/javafx.base.jar:/app/bluej/lib/javafx/javafx.controls.jar:/app/bluej/lib/javafx/javafx.fxml.jar:/app/bluej/lib/javafx/javafx.graphics.jar:/app/bluej/lib/javafx/javafx.media.jar:/app/bluej/lib/javafx/javafx.properties.jar:/app/bluej/lib/javafx/javafx.swing.jar:/app/bluej/lib/javafx/javafx.web.jar:/home/profeta/Documentos/elementosg2_2-2026
+-d
+/home/profeta/Documentos/elementosg2_2-2026/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/profeta/Documentos/elementosg2_2-2026/PrimerParcial/POO/ExamenRepasoPOO/Perro.java
+<---- end of javadoc command ---->
+Loading source file /home/profeta/Documentos/elementosg2_2-2026/PrimerParcial/POO/ExamenRepasoPOO/Perro.java...
+Constructing Javadoc information...
+Standard Doclet version 21.0.10
+Building tree for all the packages and classes...
+Generating /home/profeta/Documentos/elementosg2_2-2026/doc/PrimerParcial/POO/ExamenRepasoPOO/Perro.html...
+Generating /home/profeta/Documentos/elementosg2_2-2026/doc/PrimerParcial/POO/ExamenRepasoPOO/package-summary.html...
+Generating /home/profeta/Documentos/elementosg2_2-2026/doc/index.html...
