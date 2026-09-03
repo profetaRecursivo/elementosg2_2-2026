@@ -1,9 +1,9 @@
 #BlueJ package file
-objectbench.height=95
-objectbench.width=776
-package.divider.horizontal=0.6
-package.divider.vertical=0.7996236393960674
-package.editor.height=396
+objectbench.height=100
+objectbench.width=461
+package.divider.horizontal=0.599635870309666
+package.divider.vertical=0.7877135544680478
+package.editor.height=390
 package.editor.width=646
 package.editor.x=59
 package.editor.y=66
@@ -19,8 +19,8 @@ readme.width=49
 readme.x=10
 readme.y=10
 target1.height=82
-target1.name=ExamenRepasoPOO
+target1.name=EjercicioBiblioteca
 target1.type=PackageTarget
-target1.width=150
-target1.x=10
-target1.y=110
+target1.width=140
+target1.x=236
+target1.y=234
