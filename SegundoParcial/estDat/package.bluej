@@ -1,0 +1,26 @@
+#BlueJ package file
+objectbench.height=153
+objectbench.width=1013
+package.divider.horizontal=0.5368421052631579
+package.divider.vertical=0.8314014752370916
+package.editor.height=782
+package.editor.width=1766
+package.editor.x=0
+package.editor.y=32
+package.frame.height=1048
+package.frame.width=1920
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=60
+readme.name=@README
+readme.width=49
+readme.x=10
+readme.y=10
+target1.height=82
+target1.name=estDatLin
+target1.type=PackageTarget
+target1.width=120
+target1.x=411
+target1.y=107
