@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Nov 18 17:02:19 BOT 2026
+comment0.target=Maquina
+comment1.params=X
+comment1.target=Maquina(int)
+comment2.params=deseado
+comment2.target=Producto vender(Producto)
+numComments=3

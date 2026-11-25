@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Nov 18 17:03:06 BOT 2026
+comment0.target=Gancho
+comment1.target=Gancho()
+comment2.target=Producto decolar()
+comment3.params=dato
+comment3.target=void encolar(Producto)
+comment4.target=int tamano()
+numComments=5
